@@ -1,0 +1,15 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "slots": {
+        "container.0": {
+          "items": "minecraft:structure_block",
+          "count": 40
+        }
+      },
+      "flags": {
+        "is_sneaking": true
+      }
+    }
+  }

@@ -1,0 +1,1 @@
+give @p black_dye[max_stack_size=1,custom_name='{"bold":true,"color":"#2B0000","text":"Black Ticket"}',enchantment_glint_override=true] 1

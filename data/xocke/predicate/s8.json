@@ -1,0 +1,19 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "slots": {
+        "container.0": {
+          "items": "minecraft:enchanted_book",
+          "components": {
+            "minecraft:stored_enchantments": {
+              "minecraft:sharpness": 8
+            }
+          }
+        }
+      },
+      "flags": {
+        "is_sneaking": true
+      }
+    }
+  }
